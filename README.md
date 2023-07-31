@@ -1,4 +1,3 @@
-# Project3
-hi22
-good
+# Project3 - House inspection
+
 
